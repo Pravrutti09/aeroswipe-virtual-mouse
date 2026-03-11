@@ -1,6 +1,7 @@
 # AeroSwipe Virtual Mouse
 
-This project allows users to control the computer mouse using hand gestures through a webcam. It uses computer vision techniques to detect hand movements and perform mouse actions like cursor movement and clicking.
+This project allows users to control the computer mouse using hand gestures through a webcam. It uses computer vision techniques to detect hand movements and perform mouse actions like To move cursor, Left click, Right click, Double click, Drag, Drop, Volume up and down.
+
 
 ## Technologies Used
 Python
